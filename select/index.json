@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Talk that Talk",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-23T06:03:18.279728Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Talk That Talk",
+      "artist": "Juicy J feat. Wiz Khalifa & Project Pat",
+      "has_synced": false,
+      "path": "select/01_Talk_That_Talk_Juicy_J_feat._Wiz_Khalifa_&_Project_Pat.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Talk That Talk (feat. Wiz Khalifa & Project Pat)",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/02_Talk_That_Talk_(feat._Wiz_Khalifa_&_Project_Pat)_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Talk That Talk",
+      "artist": "Rihanna feat. JAY-Z",
+      "has_synced": true,
+      "path": "select/03_Talk_That_Talk_Rihanna_feat._JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talk That Talk (feat. Jay-Z)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/04_Talk_That_Talk_(feat._Jay-Z)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Talk That Talk",
+      "artist": "Rihanna (ft. Jay-Z)",
+      "has_synced": true,
+      "path": "select/05_Talk_That_Talk_Rihanna_(ft._Jay-Z).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Talk That Talk",
+      "artist": "Rihanna Ft. Jay-Z",
+      "has_synced": true,
+      "path": "select/06_Talk_That_Talk_Rihanna_Ft._Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Talk That Talk",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/07_Talk_That_Talk_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Talk That Talk (Album Version)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/08_Talk_That_Talk_(Album_Version)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Talk That Talk",
+      "artist": "Rihanna & Jay-Z",
+      "has_synced": true,
+      "path": "select/09_Talk_That_Talk_Rihanna_&_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Talk That Talk [Ft. Jay-Z]",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/10_Talk_That_Talk_[Ft._Jay-Z]_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Talk That Talk",
+      "artist": "Jackie Wilson",
+      "has_synced": true,
+      "path": "select/11_Talk_That_Talk_Jackie_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Talk That Talk (2012)",
+      "artist": "Rihanna Ft Jay-Z",
+      "has_synced": true,
+      "path": "select/12_Talk_That_Talk_(2012)_Rihanna_Ft_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Talk That Talk",
+      "artist": "Jackie Wilson",
+      "has_synced": true,
+      "path": "select/13_Talk_That_Talk_Jackie_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Talk That Talk",
+      "artist": "Rihanna feat․ JAY-Z",
+      "has_synced": true,
+      "path": "select/14_Talk_That_Talk_Rihanna_feat._JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Talk that Talk",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/15_Talk_that_Talk_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Talk That Talk - Album Version (Edited)",
+      "artist": "Rihanna feat. JAY-Z",
+      "has_synced": true,
+      "path": "select/16_Talk_That_Talk_-_Album_Version_(Edited)_Rihanna_feat._JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Talk That Talk (Album Version)",
+      "artist": "Rihanna feat. JAY Z",
+      "has_synced": true,
+      "path": "select/17_Talk_That_Talk_(Album_Version)_Rihanna_feat._JAY_Z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talk that Talk",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Talk_that_Talk_TWICE.txt"
+    }
+  ]
+}
